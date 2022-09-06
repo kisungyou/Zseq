@@ -19,7 +19,3 @@
   packageStartupMessage("** Please share any bugs or suggestions to the maintainer.")
   packageStartupMessage("** ------------------------------------------------------- **")
 }
-
-.onUnload <- function(libpath) {
-  library.dynam.unload("Zseq", libpath)
-}
