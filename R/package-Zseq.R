@@ -8,4 +8,5 @@
 #' @docType package
 #' @name Zseq-package
 #' @import gmp
+#' @importFrom utils packageVersion getFromNamespace
 NULL
