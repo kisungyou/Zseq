@@ -1,7 +1,7 @@
 Package: Zseq
 Type: Package
 Title: Integer Sequence Generator
-Version: 0.2.1
+Version: 0.2.2
 Authors@R: person("Kisung", "You", role = c("aut", "cre"),
                      email = "kisung.you@outlook.com",comment=c(ORCID="0000-0002-8584-459X"))
 Description: Generates well-known integer sequences. 'gmp' package is adopted for computing with arbitrarily large numbers. Every function has hyperlink to its corresponding item in OEIS (The On-Line Encyclopedia of Integer Sequences) in the function help page. For interested readers, see Sloane and Plouffe (1995, ISBN:978-0125586306).
